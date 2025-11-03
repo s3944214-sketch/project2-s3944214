@@ -1,0 +1,396 @@
+===== 2025-11-03 19:53:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://packages.linuxmint.com xia Release
+Hit:3 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:6 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 19:53:05 - Update end =====
+===== 2025-11-03 19:53:14 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:3 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:4 http://packages.linuxmint.com xia Release
+Hit:5 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 19:53:17 - Update end =====
+===== 2025-11-03 19:54:01 - Update start =====
+Hit:1 http://security.ubuntu.com/ubuntu noble-security InRelease
+Ign:2 http://packages.linuxmint.com xia InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:5 http://packages.linuxmint.com xia Release
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 19:54:04 - Update end =====
+===== 2025-11-03 19:55:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://packages.linuxmint.com xia Release
+Hit:4 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:5 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:6 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 19:55:05 - Update end =====
+===== 2025-11-03 19:56:01 - Update start =====
+Hit:1 http://archive.ubuntu.com/ubuntu noble InRelease
+Ign:2 http://packages.linuxmint.com xia InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:4 http://packages.linuxmint.com xia Release
+Hit:5 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 19:56:04 - Update end =====
+===== 2025-11-03 19:57:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://packages.linuxmint.com xia Release
+Hit:3 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:5 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:6 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 19:57:04 - Update end =====
+===== 2025-11-03 19:58:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:3 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:4 http://packages.linuxmint.com xia Release
+Hit:5 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 19:58:04 - Update end =====
+===== 2025-11-03 19:59:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:4 http://packages.linuxmint.com xia Release
+Hit:6 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 19:59:04 - Update end =====
+===== 2025-11-03 20:00:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://packages.linuxmint.com xia Release
+Hit:4 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:5 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:6 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:7 http://security.ubuntu.com/ubuntu noble-security InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 20:00:06 - Update end =====
+===== 2025-11-03 20:01:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:4 http://packages.linuxmint.com xia Release
+Hit:5 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 20:01:05 - Update end =====
+===== 2025-11-03 20:02:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://packages.linuxmint.com xia Release
+Hit:4 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:5 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:6 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 20:02:04 - Update end =====
+===== 2025-11-03 20:03:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://packages.linuxmint.com xia Release
+Hit:3 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:4 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:6 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 20:03:06 - Update end =====
+===== 2025-11-03 20:04:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:4 http://packages.linuxmint.com xia Release
+Hit:5 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 20:04:04 - Update end =====
+===== 2025-11-03 20:05:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:3 http://packages.linuxmint.com xia Release
+Hit:4 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:6 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 20:05:04 - Update end =====
+===== 2025-11-03 20:06:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:3 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:4 http://packages.linuxmint.com xia Release
+Hit:5 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 20:06:04 - Update end =====
+===== 2025-11-03 20:07:04 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:3 http://packages.linuxmint.com xia Release
+Hit:4 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:6 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 20:07:07 - Update end =====
+===== 2025-11-03 20:08:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:4 http://packages.linuxmint.com xia Release
+Hit:6 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 20:08:05 - Update end =====
+===== 2025-11-03 20:09:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://packages.linuxmint.com xia Release
+Hit:3 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:5 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:6 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 20:09:04 - Update end =====
+===== 2025-11-03 20:10:01 - Update start =====
+Hit:1 http://security.ubuntu.com/ubuntu noble-security InRelease
+Ign:2 http://packages.linuxmint.com xia InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:5 http://packages.linuxmint.com xia Release
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 20:10:06 - Update end =====
+===== 2025-11-03 20:11:03 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://packages.linuxmint.com xia Release
+Hit:3 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:4 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:6 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 20:11:07 - Update end =====
+===== 2025-11-03 20:12:01 - Update start =====
+Hit:1 http://security.ubuntu.com/ubuntu noble-security InRelease
+Ign:2 http://packages.linuxmint.com xia InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:4 http://packages.linuxmint.com xia Release
+Hit:5 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 20:12:05 - Update end =====
+===== 2025-11-03 20:13:01 - Update start =====
+Ign:1 http://packages.linuxmint.com xia InRelease
+Hit:2 http://packages.linuxmint.com xia Release
+Hit:4 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:5 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:6 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages have been kept back:
+  libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa libglx-mesa0
+  libxatracker2 linux-generic linux-headers-generic linux-image-generic
+  mesa-va-drivers mesa-vulkan-drivers
+0 to upgrade, 0 to newly install, 0 to remove and 11 not to upgrade.
+===== 2025-11-03 20:13:04 - Update end =====
